@@ -1,0 +1,7 @@
+Python version : 3.13.12 | packaged by Anaconda, Inc. | (main, Feb 24 2026, 16:05:56) [MSC v.1942 64 bit (AMD64)]
+pip version    : pip 26.0.1 from C:\Users\chunc\miniconda3\Lib\site-packages\pip (python 3.13)
+Platform       : Windows-11-10.0.26200-SP0
+OS             : Windows 11
+Architecture   : AMD64
+Executable     : C:\Users\chunc\miniconda3\python.exe
+Conda env      : base
